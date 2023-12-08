@@ -1,4 +1,3 @@
-
 <a href="https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172">
 <img width="100%" length="80%" src="https://i.ibb.co/0czgnb8/miraz.gif" />
 </a>
@@ -13,7 +12,10 @@
 ## Reach me out
 
 <br />
-
-[ <p align="center"> Linkedin ](https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172/)[ Facebook ]( https://www.facebook.com/hassanmdsharfuddin.miraz.9)[ Twitter </p> ](https://twitter.com/hmsmiraz)
-
+<p align="center">
+<a href="https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172/">Linkedin</a>
+<a href="https://www.facebook.com/hassanmdsharfuddin.miraz.9">Facebook</a>
+<a href="https://twitter.com/hmsmiraz">Twitter</a>
+</p>
 <br />
+
