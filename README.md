@@ -14,6 +14,6 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://i.ibb.co/Nn1fj8G/link.png">  ](https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172/)[  <img height="75" src="https://i.ibb.co/d29RB7t/fb.png">  ]( https://www.facebook.com/hassanmdsharfuddin.miraz.9)[<img height="75" src="https://i.ibb.co/x107hZ1/twitter.png" > </p> ](https://twitter.com/hmsmiraz)
+[ Linkedin ](https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172/)[ Facebook ]( https://www.facebook.com/hassanmdsharfuddin.miraz.9)[ Twitter </p> ](https://twitter.com/hmsmiraz)
 
 <br />
