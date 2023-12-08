@@ -14,6 +14,6 @@
 
 <br />
 
-[ Linkedin ](https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172/)[ Facebook ]( https://www.facebook.com/hassanmdsharfuddin.miraz.9)[ Twitter </p> ](https://twitter.com/hmsmiraz)
+[<p align="center"> Linkedin ](https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172/)[ Facebook ]( https://www.facebook.com/hassanmdsharfuddin.miraz.9)[ Twitter </p> ](https://twitter.com/hmsmiraz)
 
 <br />
