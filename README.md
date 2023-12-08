@@ -1,7 +1,6 @@
 ### Hi there 👋
+[![An old rock in the desert](/assets/banner/miraz.gif "banner")](https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172)
 
-
-**hmsmiraz/hmsmiraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
