@@ -18,10 +18,28 @@
 <a href="https://twitter.com/hmsmiraz">Twitter</a>
 </p>
 <br />
-## :computer: Technologies that I know
+
+## Technologies that I know
 
 <br>
 <p align="center">
 <img src="/assets/icon/HTML.png"/>
+<img src="/assets/icon/css.png"/>
+<img src="/assets/icon/JavaScript.png"/>
+<img src="/assets/icon/react.png"/>
+<img src="/assets/icon/tailwind.png"/>
+
 </p>
+<br>
+<p align="center">
+<img src="/assets/icon/node.png"/>
+<img src="/assets/icon/mongo.png"/>
+<img src="/assets/icon/firebase.png"/>
+</p>
+<br>
+<p align="center">
+<img src="/assets/icon/c.png"/>
+<img src="/assets/icon/python.png"/>
+</p>
+
 
