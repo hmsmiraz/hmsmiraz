@@ -42,4 +42,11 @@
 <img src="/assets/icon/python.png"/>
 </p>
 
+## Overview
+
+<br />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hmsmiraz&theme=nord_bright" alt="GitHub Streak" /></a>
+</p>
+
 
