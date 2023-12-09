@@ -18,4 +18,10 @@
 <a href="https://twitter.com/hmsmiraz">Twitter</a>
 </p>
 <br />
+## :computer: Technologies that I know
+
+<br>
+<p align="center">
+<img src="/assets/icon/HTML.png"/>
+</p>
 
