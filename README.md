@@ -5,7 +5,7 @@
 ##  Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/hmsmiraz"><img src="https://api.daily.dev/devcards/40a1693933f34db4ac5564198bc1341f.png?r=foh" width="400" alt="Hassan MD. Sharfuddin Miraz's Dev Card"/></a>
+<a href="https://app.daily.dev/hmsmiraz"><img align="right" src="https://api.daily.dev/devcards/40a1693933f34db4ac5564198bc1341f.png?r=foh" width="400" alt="Hassan MD. Sharfuddin Miraz's Dev Card"/></a>
 </div>
 
 ### 👩‍💻 I'm currently honing my skills as a React and front-end developer.
