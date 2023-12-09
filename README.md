@@ -13,6 +13,7 @@
 ### 🧠 My goal is to simplify web development learning for others. 
 ### 🚀 I thrive on staying updated with the latest trends and best practices in the React and front-end development landscape.
 
+<br />
 
 ## Current Stats
 
