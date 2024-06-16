@@ -2,31 +2,37 @@
 <img width="100%" height="480" src="/assets/banner/I.gif" />
 </a>
 
-## Current overview
+## 🌐 Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/hmsmiraz"><img align="right" src="https://api.daily.dev/devcards/40a1693933f34db4ac5564198bc1341f.png?r=foh" width="160" height="250" alt="Hassan MD. Sharfuddin Miraz's Dev Card"/></a>
+<a href="https://app.daily.dev/hmsmiraz" style="margin-top: 20px;">
+  <img align="right" src="https://api.daily.dev/devcards/40a1693933f34db4ac5564198bc1341f.png?r=foh" width="160" height="250" alt="Hassan MD. Sharfuddin Miraz's Dev Card"/>
+</a>
+
 </div>
 
-# 👩‍💻 Passionate React and Front-End Developer Seeking Open Source Collaborations
+### 💻 Passionate React and MERN Stack Developer Seeking Open Source Collaborations
 
 #### 🤝 Ready to Team Up
+
 Excited to contribute to open-source projects and collaborate with fellow developers.
 
 #### 🧠 Dedicated to Simplifying Web Development
+
 Committed to making web development learning accessible and straightforward for everyone.
 
 #### 🚀 Always Up-to-Date
+
 Enthusiastic about staying on top of the latest trends and best practices in the ever-evolving React and front-end development landscape.
 
 #### 🌟 GitHub Highlights
+
 - I am skilled in MERN Stack Development.
 - Consistent contributor with a strong GitHub streak and a diverse project portfolio.
 - Experience in RESTful API integration and state management with Redux.
 - Created interactive and responsive UI components that enhance user experience.
 
 Let's build something amazing together!
-
 
 <br />
 
@@ -41,14 +47,14 @@ Let's build something amazing together!
 
 <br />
 
-## Current Stats
+## 📊 Current Stats
 
 <br />
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hmsmiraz&theme=blux&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
-## Reach me out
+## 📧 Reach me out
 
 <br />
 <p align="center">
@@ -58,7 +64,7 @@ Let's build something amazing together!
 </p>
 <br />
 
-## Technologies that I know
+## 🛠️ Technologies that I know
 
 <br>
 <p align="center">
@@ -81,7 +87,7 @@ Let's build something amazing together!
 <img src="/assets/icon/python.png"/>
 </p>
 
-## Overview
+## 🔍 Overview
 
 <br />
 <p align="center">
