@@ -5,7 +5,7 @@
 ## Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/hmsmiraz"><img align="right" src="https://api.daily.dev/devcards/40a1693933f34db4ac5564198bc1341f.png?r=foh" width="180" height="280" alt="Hassan MD. Sharfuddin Miraz's Dev Card"/></a>
+<a href="https://app.daily.dev/hmsmiraz"><img align="right" src="https://api.daily.dev/devcards/40a1693933f34db4ac5564198bc1341f.png?r=foh" width="150" height="250" alt="Hassan MD. Sharfuddin Miraz's Dev Card"/></a>
 </div>
 
 #### 👩‍💻 I'm currently honing my skills as a React and front-end developer.
@@ -22,9 +22,9 @@
 
 ### GitHub Stars & Top Languages
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hmsmiraz&show_icons=true&theme=radical" alt="Tapas's Github Stats" style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmsmiraz&layout=compact" alt="Top Languages" style="width: 48%;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hmsmiraz&show_icons=true&theme=radical" alt="Tapas's Github Stats" style="width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmsmiraz&layout=compact" alt="Top Languages" style="width: 400px; height: 200px;">
 </div>
 
 <br />
