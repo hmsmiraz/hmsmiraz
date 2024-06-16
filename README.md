@@ -23,8 +23,8 @@
 ### GitHub Stars & Top Languages
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hmsmiraz&show_icons=true&theme=radical" alt="Tapas's Github Stats" style="width: 400px; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmsmiraz&layout=compact" alt="Top Languages" style="width: 400px; height: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hmsmiraz&show_icons=true&theme=radical" alt="Tapas's Github Stats" style="width: 360px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmsmiraz&layout=compact" alt="Top Languages" style="width: 360px; height: 160px;">
 </div>
 
 <br />
