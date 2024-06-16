@@ -8,13 +8,25 @@
 <a href="https://app.daily.dev/hmsmiraz"><img align="right" src="https://api.daily.dev/devcards/40a1693933f34db4ac5564198bc1341f.png?r=foh" width="160" height="250" alt="Hassan MD. Sharfuddin Miraz's Dev Card"/></a>
 </div>
 
-#### 👩‍💻 I'm currently honing my skills as a React and front-end developer.
+# 👩‍💻 Passionate React and Front-End Developer Seeking Open Source Collaborations
 
-#### 🤝 I'm eager to team up and contribute to open-source projects.
+#### 🤝 Ready to Team Up
+Excited to contribute to open-source projects and collaborate with fellow developers.
 
-#### 🧠 My goal is to simplify web development learning for others.
+#### 🧠 Dedicated to Simplifying Web Development
+Committed to making web development learning accessible and straightforward for everyone.
 
-#### 🚀 I thrive on staying updated with the latest trends and best practices <br/> in the React and front-end development landscape.
+#### 🚀 Always Up-to-Date
+Enthusiastic about staying on top of the latest trends and best practices in the ever-evolving React and front-end development landscape.
+
+#### 🌟 GitHub Highlights
+- I am skilled in MERN Stack Development.
+- Consistent contributor with a strong GitHub streak and a diverse project portfolio.
+- Experience in RESTful API integration and state management with Redux.
+- Created interactive and responsive UI components that enhance user experience.
+
+Let's build something amazing together!
+
 
 <br />
 
