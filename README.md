@@ -67,7 +67,7 @@ Let's build something amazing together!
 ## 🛠️ Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,redux,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui" />
   </a>
 </p>
 <p align="center">
@@ -77,7 +77,7 @@ Let's build something amazing together!
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,firebase,vscode,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=github,git,firebase,vscode,netlify,vercel" />
   </a>
 </p>
 
