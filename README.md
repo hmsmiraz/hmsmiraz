@@ -36,35 +36,8 @@ Let's build something amazing together!
 
 <br />
 
-## 📈 My GitHub Stats
-
-### GitHub Stars & Top Languages
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hmsmiraz&show_icons=true&theme=radical" alt="Tapas's Github Stats" style="width: 400px; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmsmiraz&layout=compact" alt="Top Languages" style="width: 400px; height: 200px;">
-</div>
-
-<br />
-
-## 📊 Current Stats
-
-<br />
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hmsmiraz&theme=blux&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</p>
-
-## 📧 Reach me out
-
-<br />
-<p align="center">
-<a href="https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172/">Linkedin</a>
-<a href="https://www.facebook.com/hassanmdsharfuddin.miraz.9">Facebook</a>
-<a href="https://twitter.com/hmsmiraz">Twitter</a>
-</p>
-<br />
-
 ## 🛠️ Technologies that I know
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui" />
@@ -79,6 +52,36 @@ Let's build something amazing together!
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,firebase,vscode,netlify,vercel" />
   </a>
+</p>
+
+## 📈 My GitHub Stats
+
+### GitHub Stars & Top Languages
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hmsmiraz&show_icons=true&theme=radical" alt="Tapas's Github Stats" style="width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmsmiraz&layout=compact" alt="Top Languages" style="width: 400px; height: 200px;">
+</div>
+
+## 📧 Reach me out
+
+<br />
+<p align="center">
+<a href="mailto:hassan.sharfuddin.miraz@gmail.com">
+    <img src="/assets/social/Gmail.png" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172/"><img src="/assets/social/LinkedIN.png" alt="Linkedin" /></a>
+<a href="https://www.facebook.com/hassanmdsharfuddin.miraz.9"><img src="/assets/social/Facebook.png" alt="Facebook" /></a>
+<a href="https://twitter.com/hmsmiraz"><img src="/assets/social/Twitter.png" alt="Twitter" /></a>
+
+</p>
+<br />
+
+## 📊 Current Stats
+
+<br />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hmsmiraz&theme=blux&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 ## 🔍 Overview
