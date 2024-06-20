@@ -65,26 +65,20 @@ Let's build something amazing together!
 <br />
 
 ## 🛠️ Technologies that I know
-
-<br>
 <p align="center">
-<img src="/assets/icon/HTML.png"/>
-<img src="/assets/icon/css.png"/>
-<img src="/assets/icon/JavaScript.png"/>
-<img src="/assets/icon/react.png"/>
-<img src="/assets/icon/tailwind.png"/>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,redux,nextjs" />
+  </a>
 </p>
-<br>
 <p align="center">
-<img src="/assets/icon/node.png"/>
-<img src="/assets/icon/mongo.png"/>
-<img src="/assets/icon/firebase.png"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+  </a>
 </p>
-<br>
 <p align="center">
-<img src="/assets/icon/c.png"/>
-<img src="/assets/icon/python.png"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,firebase,vscode,netlify,vercel" />
+  </a>
 </p>
 
 ## 🔍 Overview
