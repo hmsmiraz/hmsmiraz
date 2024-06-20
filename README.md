@@ -67,7 +67,6 @@ Let's build something amazing together!
 
 <br />
 <p align="center">
-<a href=hassan.sharfuddin.miraz@gmail.com><img src="/assets/social/Gmail.png" alt="Gmail" style="width: 80px; height: 80px;"/></a>
 <a href="https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172/"><img src="/assets/social/LinkedIN.png" alt="Linkedin" style="width: 80px; height: 80px;" /></a>
 <a href="https://www.facebook.com/hassanmdsharfuddin.miraz.9"><img src="/assets/social/Facebook.png" alt="Facebook" style="width: 80px; height: 80px;" /></a>
 <a href="https://twitter.com/hmsmiraz"><img src="/assets/social/Twitter.png" alt="Twitter" style="width: 80px; height: 80px;"/></a>
