@@ -69,7 +69,7 @@ Let's build something amazing together!
 <p align="center">
 <a href="https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172/"><img src="/assets/social/LinkedIN.png" alt="Linkedin" style="width: 80px; height: 80px;" /></a>
 <a href="https://www.facebook.com/hassanmdsharfuddin.miraz.9"><img src="/assets/social/Facebook.png" alt="Facebook" style="width: 80px; height: 80px;" /></a>
-<a href="https://twitter.com/hmsmiraz"><img src="/assets/social/Twitter.png" alt="Twitter" style="width: 80px; height: 80px;"/></a>
+<a href="https://dev.to/hmsmiraz"><img src="/assets/social/dev-to.png" alt="dev-to" style="width: 80px; height: 80px;"/></a>
 </p>
 <br />
 
