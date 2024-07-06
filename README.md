@@ -2,11 +2,11 @@
 <img width="100%" height="480" src="/assets/banner/I.gif" />
 </a>
 
-## 🌐 Current overview
+## 🌐 Current overview ![](https://komarev.com/ghpvc/?username=your-github-hmsmiraz&style=plastic&color=02A2E4)
 
 <div align="left">
 <a href="https://app.daily.dev/hmsmiraz" style="margin-top: 20px;">
-  <img align="right" src="https://api.daily.dev/devcards/40a1693933f34db4ac5564198bc1341f.png?r=foh" width="160" height="250" alt="Hassan MD. Sharfuddin Miraz's Dev Card"/>
+  <img align="right" src="https://api.daily.dev/devcards/40a1693933f34db4ac5564198bc1341f.png?r=foh" width="200" height="290" alt="Hassan MD. Sharfuddin Miraz's Dev Card"/>
 </a>
 
 </div>
