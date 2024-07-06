@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172">
-<img width="100%" height="480" src="/assets/banner/I.gif" />
+<img width="100%" height="460" src="/assets/banner/I2.gif" />
 </a>
 
 ## 🌐 Current overview ![](https://komarev.com/ghpvc/?username=your-github-hmsmiraz&style=plastic&color=02A2E4)
