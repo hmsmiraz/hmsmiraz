@@ -2,9 +2,6 @@
 <img width="100%" height="460" src="/assets/banner/II.gif" />
 </a>
 
-
-## 🌐 Current overview ![](https://komarev.com/ghpvc/?username=your-github-hmsmiraz&style=plastic&color=02A2E4)
-
 <div align="left">
 <a href="https://app.daily.dev/hmsmiraz" style="margin-top: 20px;">
   <img align="right" src="https://api.daily.dev/devcards/40a1693933f34db4ac5564198bc1341f.png?r=foh" width="200" height="290" alt="Hassan MD. Sharfuddin Miraz's Dev Card"/>
@@ -12,7 +9,7 @@
 
 </div>
 
-## 💻 DevOps Engineer  
+## 💻 DevOps Engineer  ![](https://komarev.com/ghpvc/?username=your-github-hmsmiraz&style=plastic&color=02A2E4)
 #### 🤝 Open to Collaboration & Innovation  
 #### 🧠 Passionate About Scalable Cloud Infrastructure  
 #### 🚀 Driving Continuous Integration, Deployment & Automation  
