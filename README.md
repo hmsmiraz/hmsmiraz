@@ -12,36 +12,39 @@
 
 </div>
 
-### 💻 Passionate React and MERN Stack Developer Seeking Open Source Collaborations
-#### 🤝 Ready to Team Up
-<!-- Excited to contribute to open-source projects and collaborate with fellow developers. -->
-#### 🧠 Dedicated to Simplifying Web Development
-<!-- Committed to making web development learning accessible and straightforward for everyone. -->
-#### 🚀 Always Up-to-Date
-<!-- Enthusiastic about staying on top of the latest trends and best practices in the ever-evolving React and front-end development landscape. -->
+### 💻 DevOps Engineer | CloudOps & Automation Enthusiast  
+#### 🤝 Open to Collaboration & Innovation  
+#### 🧠 Passionate About Scalable Cloud Infrastructure  
+#### 🚀 Driving Continuous Integration, Deployment & Automation  
 
-#### 🌟 GitHub Highlights
-- I am skilled in MERN Stack Development.
-- Consistent contributor with a strong GitHub streak and a diverse project portfolio.
-- Experience in RESTful API integration and state management with Redux.
-- Created interactive and responsive UI components that enhance user experience.
-Let's build something amazing together!
+#### 🌟 Professional Highlights
+- Currently working as a **DevOps Engineer** with hands-on experience in **AWS, Docker, Kubernetes, CI/CD, and Terraform**.  
+- Skilled in designing and managing **cloud-native architectures** and **automated deployment pipelines**.  
+- Experienced in **infrastructure as code (IaC)**, **container orchestration**, and **monitoring solutions** (Prometheus, Grafana).  
+- Strong background in **MERN Stack Development**, combining development and DevOps knowledge for end-to-end delivery.  
+- Committed to simplifying complex DevOps workflows and empowering teams with automation.  
+- 🧾 **Published Research Paper:** *“Machine Learning and Deep Learning Based Bangla Music Emotion Detection From Lyrics”* — exploring emotion recognition through AI-driven text analysis.
+
+Let’s build scalable, reliable systems together!  
 <br />
-## 🛠️ Technologies that I know
+
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,nginx" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,bash,vim,git,github,gitlab,vscode,vercel" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,firebase,vscode,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui,nodejs,express,mongodb,postman" />
   </a>
 </p>
 
