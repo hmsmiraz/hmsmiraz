@@ -12,7 +12,7 @@
 
 </div>
 
-### 💻 DevOps Engineer | CloudOps & Automation Enthusiast  
+## 💻 DevOps Engineer  
 #### 🤝 Open to Collaboration & Innovation  
 #### 🧠 Passionate About Scalable Cloud Infrastructure  
 #### 🚀 Driving Continuous Integration, Deployment & Automation  
