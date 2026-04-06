@@ -44,15 +44,7 @@ Let’s build scalable, reliable systems together!
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui,nodejs,express,mongodb,postman" />
   </a>
 </p>
-
-## 📈 My GitHub Stats
-
-### GitHub Stars & Top Languages
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hmsmiraz&show_icons=true&theme=radical" alt="Tapas's Github Stats" style="width: 400px; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmsmiraz&layout=compact" alt="Top Languages" style="width: 400px; height: 200px;">
-</div>
+<br />
 
 ## 📧 Reach me out
 
