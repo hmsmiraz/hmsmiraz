@@ -29,12 +29,6 @@ Let's build scalable, reliable systems together!
 
 ---
 
-## 📊 Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmsmiraz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
----
-
 ## 🛠️ Technologies & Tools
 
 <p align="center">
@@ -67,6 +61,14 @@ Let's build scalable, reliable systems together!
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hmsmiraz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hmsmiraz&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
