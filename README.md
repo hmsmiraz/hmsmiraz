@@ -65,14 +65,6 @@ Let's build scalable, reliable systems together!
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hmsmiraz&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📧 Reach me out
 
 <p align="center">
