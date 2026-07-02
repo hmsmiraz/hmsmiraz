@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/hassan-md-sharfuddin-miraz-51b254172">
-<img width="100%" height="460" src="/assets/banner/II.gif" />
+<img width="100%" height="460" src="/assets/banner/C.png" />
 </a>
 
 <div align="left">
